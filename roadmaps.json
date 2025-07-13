@@ -1,0 +1,127 @@
+{
+  "React": [
+    "📘 Learn JSX, components, and props",
+    "⚙️ Understand state and lifecycle methods",
+    "📦 Learn hooks like useState and useEffect",
+    "🌐 Practice API integration using fetch or axios",
+    "🧱 Build reusable component libraries",
+    "🧪 Write tests using React Testing Library",
+    "🚀 Create a project and deploy it"
+  ],
+  "Cloud Computing": [
+    "📘 Understand IaaS, PaaS, SaaS",
+    "☁️ Learn AWS, Azure, GCP basics",
+    "📦 Study virtualization and containers",
+    "🔐 Learn IAM and cloud security",
+    "🧰 Use cloud CLI and management consoles",
+    "🚀 Deploy apps on EC2, Lambda, or GCP App Engine"
+  ],
+  "Agile Methodologies": [
+    "📘 Learn Agile Manifesto and principles",
+    "🛠 Understand roles: Scrum Master, Product Owner",
+    "🔁 Scrum ceremonies: Sprint Planning, Daily Standup, Retrospective",
+    "📅 Write user stories and manage backlog",
+    "🧰 Use tools like Jira, Trello, or Asana",
+    "📊 Track velocity and burn-down charts"
+  ],
+  "Testing Frameworks": [
+    "📘 Learn testing types: unit, integration, E2E",
+    "🧪 Use Jest, Mocha, or Pytest",
+    "🧰 Setup tests in your project",
+    "✅ Write tests for core functions",
+    "🔁 Mock APIs and services",
+    "📊 Monitor code coverage"
+  ],
+  "Version Control": [
+    "📘 Understand Git basics: clone, commit, push",
+    "🌿 Branching and merging workflows",
+    "🧪 Resolve merge conflicts",
+    "📄 Use GitHub/GitLab for team collaboration",
+    "🛠 Practice with open-source repos",
+    "✅ Create pull requests and manage reviews"
+  ],
+  "Python": [
+    "📘 Learn syntax, variables, loops, and functions",
+    "🧰 Work with data structures and file handling",
+    "🧠 Learn OOP, decorators, and exceptions",
+    "📊 Use pandas, NumPy, matplotlib",
+    "🌐 Build Flask or Django web apps",
+    "🧪 Write tests and debug code"
+  ],
+  "Data Structures": [
+    "📘 Understand arrays, strings, linked lists",
+    "🧮 Learn stacks, queues, trees, graphs",
+    "🔍 Practice searching/sorting algorithms",
+    "🧠 Solve problems on LeetCode and HackerRank",
+    "⚙️ Analyze time/space complexity"
+  ],
+  "SQL": [
+    "📘 Learn SELECT, WHERE, JOIN",
+    "🗃 Create tables and relationships",
+    "🔍 Write aggregate and nested queries",
+    "📊 Analyze data with GROUP BY, HAVING",
+    "🧪 Use SQL in Python/Node projects",
+    "🛠 Practice on real-world datasets"
+  ],
+  "Machine Learning": [
+    "📘 Learn supervised vs unsupervised",
+    "🧠 Algorithms: SVM, Decision Trees, KNN",
+    "📊 Data preprocessing and normalization",
+    "🧪 Build models with scikit-learn",
+    "🛠 Evaluate with accuracy, F1, ROC",
+    "🚀 Deploy ML models"
+  ],
+  "HTML": [
+    "📘 Learn HTML tags, structure, and forms",
+    "🧱 Use semantic elements and accessibility",
+    "🖼 Add images, links, lists, tables",
+    "🌐 Connect to CSS and JS"
+  ],
+  "CSS": [
+    "📘 Master selectors, box model, and specificity",
+    "🎨 Layouts using Flexbox and Grid",
+    "🧪 Responsive design with media queries",
+    "📦 Use preprocessors (SCSS) or Tailwind"
+  ],
+  "JavaScript": [
+    "📘 Learn variables, functions, objects, arrays",
+    "🧠 Understand closures, scope, hoisting",
+    "🔁 Master async/await and Promises",
+    "🛠 Manipulate DOM and handle events",
+    "📦 Use ES6 modules"
+  ],
+  "NodeJS": [
+    "📘 Understand Node environment and event loop",
+    "🧪 Learn Express for routing and middleware",
+    "🗃 Connect to MongoDB/MySQL",
+    "🛠 Build RESTful APIs",
+    "🔐 Add authentication and authorization",
+    "🚀 Deploy backend apps"
+  ],
+  "TypeScript": [
+    "📘 Learn basic types and interfaces",
+    "🧠 Use enums, generics, and type guards",
+    "🧪 Add TypeScript to React/Node projects",
+    "📦 Use tsconfig and linting tools"
+  ],
+  "Docker": [
+    "📘 Learn containers, images, and Docker CLI",
+    "🧱 Create Dockerfiles and build images",
+    "🔀 Use docker-compose",
+    "🧪 Mount volumes and manage networks",
+    "🚀 Push images to Docker Hub"
+  ],
+  "AWS": [
+    "📘 Learn EC2, S3, Lambda basics",
+    "🧰 IAM and access policies",
+    "🛠 Deploy static and dynamic apps",
+    "🔁 Automate with AWS CLI"
+  ],
+  "Linux": [
+    "📘 Use basic commands (ls, cd, mkdir, rm)",
+    "🧠 File permissions and users",
+    "🧰 Manage services and cron jobs",
+    "🔐 SSH and key-based login",
+    "🧪 Use grep, sed, awk"
+  ]
+}
